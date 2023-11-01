@@ -1,1 +1,1 @@
-# BioiAnalysing-and-Interpreting-Genomics-Datasets
+# Analysing-and-Interpreting-Genomics-Datasets
